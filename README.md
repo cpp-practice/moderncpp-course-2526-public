@@ -1,6 +1,10 @@
 # moderncpp-course-2526-public
 Public materials for students
 
+# Полезные ссылки
+
+1. [google group](https://groups.google.com/g/moderncpp_students_fall2025) - необходима для проведения опросов и доступа к таблице с ведомостью
+
 # Lectures
 
 - 09.09.2024 Lec01 Intro ([html](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/lec-01-01/%D0%A1%2B%2B.html#/))
