@@ -1,0 +1,7 @@
+void hello(int);
+extern int access_token;
+
+int main() {
+    hello(access_token);
+    return 0;
+}
