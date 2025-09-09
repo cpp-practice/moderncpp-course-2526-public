@@ -7,4 +7,4 @@ Public materials for students
 
 # Classworks
 
-- cls01, 09.09.2025: https://classroom.github.com/a/wcg-S5Sa[https://classroom.github.com/a/wcg-S5Sa]
+- cls01, 09.09.2025: [https://classroom.github.com/a/wcg-S5Sa](https://classroom.github.com/a/wcg-S5Sa)
