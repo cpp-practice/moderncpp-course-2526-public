@@ -4,6 +4,7 @@ Public materials for students
 # Полезные ссылки
 
 1. [google group](https://groups.google.com/g/moderncpp_students_fall2025) - необходима для проведения опросов и доступа к таблице с ведомостью
+2. Telegram ([invite](https://t.me/+jwZp3GF-7AxiOGFi)) - основной канал коммуникации
 
 # Lectures
 
