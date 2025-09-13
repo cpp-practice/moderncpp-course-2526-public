@@ -12,4 +12,6 @@ Public materials for students
 
 # Classworks
 
-- cls01, 09.09.2025: [https://classroom.github.com/a/wcg-S5Sa](https://classroom.github.com/a/wcg-S5Sa)
+Дедлайны указаны по Мск
+
+- 09.09.2025 [cls01](https://classroom.github.com/a/wcg-S5Sa) Deadline: 16.09.2025 18:30
