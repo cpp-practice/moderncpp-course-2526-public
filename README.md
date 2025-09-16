@@ -16,3 +16,4 @@ Public materials for students
 Дедлайны указаны по Мск
 
 - 09.09.2025 [cls01](https://classroom.github.com/a/wcg-S5Sa) Deadline: 16.09.2025 18:30
+- 16.09.2025 [cls02](https://classroom.github.com/a/t_ChHuVd) Deadline: 23.09.2025 18:30
