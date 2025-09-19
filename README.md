@@ -16,4 +16,4 @@ Public materials for students
 Дедлайны указаны по Мск
 
 - 09.09.2025 [cls01](https://classroom.github.com/a/wcg-S5Sa) Deadline: 16.09.2025 18:30
-- 16.09.2025 [cls02](https://classroom.github.com/a/t_ChHuVd) Deadline: 23.09.2025 18:30
+- 16.09.2025 [cls02](https://classroom.github.com/a/t_ChHuVd) Deadline: 23.09.2025 18:30  ([html](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/lec-01-02-part2/%D0%A1%2B%2B.html#/))
