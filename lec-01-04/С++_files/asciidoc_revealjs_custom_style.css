@@ -1,0 +1,44 @@
+/* Scale everything */
+.reveal {
+    font-size: 200%;
+}
+
+/* Scale code to become a little bigger */
+.reveal .slide-content :not(.small-code) .highlight {
+    font-size: 80%;
+}
+
+/* Scale code to become a little bigger */
+.reveal .slide-content .small-code .highlight {
+    font-size: 50%;
+}
+
+/* All subsections titles should be left aligned */
+.reveal section:not(.title) h2 {
+    text-align: left;
+    text-transform: none;
+}
+
+.reveal section.title h2 {
+    font-size: 100%;
+    text-transform: none;
+}
+
+/* All text on slides should be left aligned */
+.reveal .slide-content p {
+    text-align: left;
+}
+
+/* All lists should be left aligned */
+.reveal div .ulist {
+    text-align: left;
+}
+
+/* For asciidoc callout aligned to left */
+.reveal div .colist tr {
+    font-size: 80%;
+}
+
+.reveal div .colist {
+    float: left;
+}
