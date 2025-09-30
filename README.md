@@ -8,12 +8,13 @@ Public materials for students
 
 # Lectures
 
-- 09.09.2024 Lec01 Intro ([html](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/lec-01-01/%D0%A1%2B%2B.html#/)) - [feedback](https://forms.gle/d32teKdRXHr9a1vy5)
-- 16.09.2024 Lec02 Statements ([html](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/lec-01-02/%D0%A1%2B%2B.html#/)) - [feedback](https://forms.gle/xiTi5CwW1VJRqVcM9), [questions](https://forms.gle/Tom4QYNmHUazFCwN7)
-- 23.09.2024 Lec03
+- 09.09.2025 Lec01 Intro ([html](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/lec-01-01/%D0%A1%2B%2B.html#/)) - [feedback](https://forms.gle/d32teKdRXHr9a1vy5)
+- 16.09.2025 Lec02 Statements ([html](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/lec-01-02/%D0%A1%2B%2B.html#/)) - [feedback](https://forms.gle/xiTi5CwW1VJRqVcM9), [questions](https://forms.gle/Tom4QYNmHUazFCwN7)
+- 23.09.2025 Lec03
   - ([html](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/lec-01-03/%D0%A1%2B%2B.html#/))
+  - [feedback](https://forms.gle/sXTvGL17ga787ifVA)
+- 30.09.2025 Lec04 | Heap Fragmentation, Conversions, Functions
   - ([html](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/lec-01-04/%D0%A1%2B%2B.html#/))
-
 
 # Classworks
 
