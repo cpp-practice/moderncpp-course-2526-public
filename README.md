@@ -15,6 +15,7 @@ Public materials for students
   - [feedback](https://forms.gle/sXTvGL17ga787ifVA)
 - 30.09.2025 Lec04 | Heap Fragmentation, Conversions, Functions
   - ([html](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/lec-01-04/%D0%A1%2B%2B.html#/))
+  - [feedback](https://forms.gle/G2S9dUD7gZXpD7oMA)
 
 # Classworks
 
