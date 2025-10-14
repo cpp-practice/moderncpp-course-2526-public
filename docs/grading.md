@@ -68,7 +68,7 @@ see [about_control.md](/docs/about_activities/about_contol.md)
 
 ### Итоговая оценка за курс
 
-Оценка за основные активности: `activities = AVG(дорешки, контрольные, большие дз) + Lp`
+Оценка за основные активности: `activities = AVG(дорешки, контрольные, большие дз) - Lp`
 
 Итоговая оценка: `MIN(5, AVG(activities, exam))`
 

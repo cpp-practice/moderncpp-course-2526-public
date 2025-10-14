@@ -3,8 +3,9 @@ Public materials for students
 
 # Полезные ссылки
 
-1. [google group](https://groups.google.com/g/moderncpp_students_fall2025) - необходима для проведения опросов и доступа к таблице с ведомостью
-2. Telegram ([invite](https://t.me/+jwZp3GF-7AxiOGFi)) - основной канал коммуникации
+1. [Главная ведомость](https://docs.google.com/spreadsheets/d/1eNcUwp9upPIQkt9Hts6EZO2BD_rp3Pv8AB9SxATsXeY) - необходима для отслеживания прогресса по активностям курса
+2. [google group](https://groups.google.com/g/moderncpp_students_fall2025) - необходима для проведения опросов и доступа к таблице с ведомостью
+3. Telegram ([invite](https://t.me/+jwZp3GF-7AxiOGFi)) - основной канал коммуникации
 
 # Lectures
 
@@ -15,9 +16,12 @@ Public materials for students
   - [feedback](https://forms.gle/sXTvGL17ga787ifVA)
 - 30.09.2025 Lec04 | Heap Fragmentation, Conversions, Functions
   - ([html](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/lec-01-04/%D0%A1%2B%2B.html#/))
+  - [feedback](https://forms.gle/G2S9dUD7gZXpD7oMA)
 - 07.10.2025 Lec04 (part 2)
 - 14.10.2025 Lec04, Lec05
   - ([html](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/lec-01-05/%D0%A1%2B%2B.html#/))
+
+
 # Classworks
 
 Дедлайны указаны по Мск
