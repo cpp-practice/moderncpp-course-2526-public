@@ -32,3 +32,4 @@ Public materials for students
 - 23.09.2025 [cls03](https://classroom.github.com/a/1tousKK4) Deadline: 30.09.2025 18:30
 - 30.09.2025 [cls04](https://classroom.github.com/a/I8CSlqgn) Deadline: 07.10.2025 18:30
 - 14.10.2025 [cls05](https://classroom.github.com/a/6zDsaVMZ) Deadline: 21.10.2025 18:30
+- 21.10.2025 [cls06](https://classroom.github.com/a/2GZuFJRz) Deadline: 28.10.2025 18:30
