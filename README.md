@@ -31,6 +31,9 @@ Public materials for students
 - 02.12.2025 Lec10
   - ([html](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/lec-01-10-part1/%D0%A1%2B%2B.html#/))
   - ([html](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/lec-01-10-part2/%D0%A1%2B%2B.html#/))
+- 16.12.2025 Lec10
+  - ([html](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/lec-01-11/%D0%A1%2B%2B.html#/))
+
 
 # Classworks
 
