@@ -35,7 +35,11 @@ Public materials for students
   - ([html](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/lec-01-11/%D0%A1%2B%2B.html#/))
 
 
-# Classworks
+# Classworks02 (весна)
+
+- 10.02.2026 [cls01](https://classroom.github.com/a/VQleqNhF) Deadline: 17.02.2026 20:00
+
+# Classworks01 (осень)
 
 Дедлайны указаны по Мск
 
