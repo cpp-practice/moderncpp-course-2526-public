@@ -18,7 +18,7 @@
 
 | Активность | Начало | Ссылки |
 |------|-----------|-----------|
-| Лекция 1. Standard Library | 10.02.26 18:30 | [slides](https://htmlpreview.github.io/?https%3A%2F%2Fraw.githubusercontent.com%2Fcpp-practice%2Fmoderncpp-course-2526-public%2Frefs%2Fheads%2Fmain%2Fsemester-02%2Flec-02-01%2Fslides.html=) |
+| Лекция 1. Standard Library | 10.02.26 18:30 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/semester-02/lec-02-01/slides.html) |
 | Семинар 1 | 10.02.26 20:30 | [invite](https://classroom.github.com/a/VQleqNhF) |
 
 
