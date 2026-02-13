@@ -28,4 +28,4 @@
 
 | Задание | Дедлайн | Ссылка |
 |---------|---------|--------|
-| sem02-cls01 | 17.02.26 18:30 | [invite](https://classroom.github.com/a/VQleqNhF) |
+| sem02-cls01 | 17.02.26 20:00 | [invite](https://classroom.github.com/a/VQleqNhF) |
