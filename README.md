@@ -19,7 +19,7 @@
 | Активность | Начало | Ссылки |
 |------|-----------|-----------|
 | Лекция 1. Standard Library | 10.02.26 18:30 | slides |
-| Семинар 1. | 10.02.26 20:30 | [invite](https://classroom.github.com/a/VQleqNhF) |
+| Семинар 1 | 10.02.26 20:30 | [invite](https://classroom.github.com/a/VQleqNhF) |
 
 
 ## ⚠️ Задания и дедлайны
