@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 Quick links
-- 📘 **Кодекс чести** [code-of-conduct.md](https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/docs/code-of-conduct.md)
+- 📘 **Кодекс чести**: [code-of-conduct.md](https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/docs/code-of-conduct.md)
 - 👤 **Регистрационная форма**: [*google form*](https://forms.gle/rf9kXCfszunCofGB6)
 - 📑 **Главная ведомость**: TBD
 
