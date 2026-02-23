@@ -21,7 +21,7 @@
 | Лекция 1. Standard Library | 10.02.26 18:30 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/semester-02/lec-02-01/slides.html) |
 | Семинар 1 | 10.02.26 20:00 | [invite](https://classroom.github.com/a/VQleqNhF) |
 | Лекция 2. Metaprogrammin | 17.02.26 18:30 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/semester-02/lec-02-02/slides.html) |
-| Семинар 2 | 17.02.26 20:00 | [invite](https://classroom.github.com/a/CApNQNOy), [godbold](https://godbolt.org/z/hrsGzjo6G) |
+| Семинар 2 | 17.02.26 20:00 | [invite](https://classroom.github.com/a/CApNQNOy), [godbolt](https://godbolt.org/z/hrsGzjo6G) |
 
 
 ## ⚠️ Задания и дедлайны
