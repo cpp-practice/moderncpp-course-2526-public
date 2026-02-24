@@ -32,3 +32,4 @@
 |---------|---------|--------|
 | sem02-cls01 | 17.02.26 20:00 | [invite](https://classroom.github.com/a/VQleqNhF) |
 | sem02-cls02 | 24.02.26 20:00 | [invite](https://classroom.github.com/a/CApNQNOy) |
+| sem02-cls03 | 03.03.26 20:00 | [invite](https://classroom.github.com/a/kD1oKyoI) |
