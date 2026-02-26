@@ -25,6 +25,8 @@
 | Лекция 3. Concepts; Macros | 24.02.26 18:30 | [slides-concept](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/semester-02/lec-02-03/lec-concept.html), [slides-macro](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/semester-02/lec-02-03/lec-macro.html) |
 | Лекция 3.5. <TBD> | 03.03.26 18:30 | - |
 | КР 1 | 03.03.26 19:30 | - |
+| Лекция 4. | 10.03.26 18:30 | - |
+| Семинар 4 | 10.03.26 20:00 | - |
 
 
 ## ⚠️ Задания и дедлайны
