@@ -23,6 +23,8 @@
 | Лекция 2. Metaprogramming | 17.02.26 18:30 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/semester-02/lec-02-02/slides.html) |
 | Семинар 2 | 17.02.26 20:00 | [invite](https://classroom.github.com/a/CApNQNOy), [godbolt](https://godbolt.org/z/hrsGzjo6G) |
 | Лекция 3. Concepts; Macros | 24.02.26 18:30 | [slides-concept](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/semester-02/lec-02-03/lec-concept.html), [slides-macro](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/semester-02/lec-02-03/lec-macro.html) |
+| Лекция 3.5. <TBD> | 03.03.26 18:30 | - |
+| КР 1 | 03.03.26 19:30 | - |
 
 
 ## ⚠️ Задания и дедлайны
@@ -34,3 +36,5 @@
 | sem02-cls01 | 17.02.26 20:00 | [invite](https://classroom.github.com/a/VQleqNhF) |
 | sem02-cls02 | 24.02.26 20:00 | [invite](https://classroom.github.com/a/CApNQNOy) |
 | sem02-cls03 | 03.03.26 20:00 | [invite](https://classroom.github.com/a/kD1oKyoI) |
+| 2025-ha4 | 05.03.26 23:59 , 14.03.26 23:59, 22.03.26 23:59 | [invite](https://classroom.github.com/a/60rSwtUd) |
+| sem02-control01 | 03.03.26 21:30 | - |
