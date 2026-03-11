@@ -24,8 +24,10 @@
 | Семинар 2 | 17.02.26 20:00 | [invite](https://classroom.github.com/a/CApNQNOy), [godbolt](https://godbolt.org/z/hrsGzjo6G) |
 | Лекция 3. Concepts; Macros | 24.02.26 18:30 | [slides-concept](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/semester-02/lec-02-03/lec-concept.html), [slides-macro](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/semester-02/lec-02-03/lec-macro.html) |
 | КР 1 | 03.03.26 19:00 | - |
-| Лекция 4. | 10.03.26 18:30 | - |
-| Семинар 4 | 10.03.26 20:00 | - |
+| Лекция 4. Linking | 10.03.26 18:30 | [slides-linking](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/semester-02/lec-02-04/lec-linking.html)  |
+| Семинар 4 | 10.03.26 20:00 | [invite](https://classroom.github.com/a/jScsoZ_6) |
+| Лекция 5. Multithreading | 17.03.26 18:30 | - |
+| Семинар 5 | 17.03.26 20:00 | - |
 
 
 ## ⚠️ Задания и дедлайны
