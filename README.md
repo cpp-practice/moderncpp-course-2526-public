@@ -43,3 +43,4 @@
 | 2025-ha4 | 05.03.26 23:59 , 14.03.26 23:59, 22.03.26 23:59 | [invite](https://classroom.github.com/a/60rSwtUd) |
 | sem02-control01 | 03.03.26 22:15 | - |
 | sem02-cls04 | 17.03.26 20:00 | [invite](https://classroom.github.com/a/jScsoZ_6) |
+| sem02-cls05 | 24.03.26 20:00 | [invite](https://classroom.github.com/a/ABFlJsxK) |
