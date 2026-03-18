@@ -12,7 +12,7 @@
 ## 🚀 Quick links
 - 📘 **Кодекс чести**: [code-of-conduct.md](https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/docs/code-of-conduct.md)
 - 👤 **Регистрационная форма**: [*google form*](https://forms.gle/rf9kXCfszunCofGB6)
-- 📑 **Главная ведомость**: TBD
+- 📑 **Главная ведомость**: [google sheet](https://docs.google.com/spreadsheets/d/1d7ubVfQvmzeQW3YJ-CQ0NTCLaKYhF8SPd2BuFtz4R5U)
 
 ## 📅 Расписание 
 
