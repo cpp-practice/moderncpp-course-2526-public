@@ -27,7 +27,7 @@
 | Лекция 4. Linking | 10.03.26 18:30 | [slides-linking](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/semester-02/lec-02-04/lec-linking.html)  |
 | Семинар 4 | 10.03.26 20:00 | [invite](https://classroom.github.com/a/jScsoZ_6) |
 | Промежуточный теормин 1 | 17.03.26 18:40 | - |
-| Лекция 5. Multithreading | 17.03.26 19:05 | - |
+| Лекция 5. Multithreading | 17.03.26 19:05 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/semester-02/lec-02-05/lec-multithreading.html) |
 | Семинар 5 | 17.03.26 20:20 | - |
 
 
