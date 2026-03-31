@@ -29,6 +29,8 @@
 | Промежуточный теормин 1 | 17.03.26 18:40 | - |
 | Лекция 5. Multithreading | 17.03.26 19:05 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/semester-02/lec-02-05/lec-multithreading.html) |
 | Семинар 5 | 17.03.26 20:20 | - |
+| Лекция 6. Coroutines | 31.03.26 18:40 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/semester-02/lec-02-06/lec-coro.html) |
+| Семинар 6 | 31.03.26 20:10 | - |
 
 
 ## ⚠️ Задания и дедлайны
