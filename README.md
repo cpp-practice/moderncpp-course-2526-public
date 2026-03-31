@@ -47,3 +47,4 @@
 | sem02-cls04 | 17.03.26 20:00 | [invite](https://classroom.github.com/a/jScsoZ_6) |
 | sem02-cls05 | 31.03.26 20:00 | [invite](https://classroom.github.com/a/ABFlJsxK) |
 | 2025-ha5 | 03.04.2026, 12.04.2026, 20.04.2026 23:59 | [invite](https://classroom.github.com/a/h6mLD_M7) |
+| sem02-cls06 | 07.04.26 20:00 | [invite](https://classroom.github.com/a/8WahlwgL) |
