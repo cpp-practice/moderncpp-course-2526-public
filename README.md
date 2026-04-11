@@ -34,6 +34,7 @@
 | Лекция 7. Coroutines II | 07.04.26 18:40 | [slides](about:blank) |
 | Семинар 7 | 07.04.26 20:10 | - |
 | КР 2 | 14.04.26 18:45 | - |
+| ha6 | 17.04.2026 23:59 | - |
 | Лекция 8. Memory Models | 21.04.26 18:40 | - |
 | Семинар 8 | 21.04.26 20:10 | - |
 | Лекция 9. Ranges | 28.04.26 18:40 | - |
@@ -61,3 +62,9 @@
 | sem02-cls07 | 07.04.26 20:00 | [invite](https://classroom.github.com/a/8WahlwgL) |
 | sem02-cls07-extra | 14.04.26 20:00 | [invite](https://classroom.github.com/a/znVwrPIT) |
 | sem02-control02 | 14.04.26 21:45 | [invite](about:blank) |
+| 2025-ha6 | 24.04.2026, 03.05.2026, 11.05.2026 23:59 | [invite](about:blank) |
+| sem02-cls08 | 28.04.26 20:00 | [invite](about:blank) |
+| sem02-cls09 | 05.05.26 20:00 | [invite](about:blank) |
+| sem02-cls10 | 12.05.26 20:00 | [invite](about:blank) |
+| sem02-control03 | 12.05.26 21:45 | [invite](about:blank) |
+| sem02-controlXX | ??.05.26 21:45 | [invite](about:blank) |
