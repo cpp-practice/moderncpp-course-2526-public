@@ -31,7 +31,7 @@
 | Семинар 5 | 17.03.26 20:20 | - |
 | Лекция 6. Coroutines | 31.03.26 18:40 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/semester-02/lec-02-06/lec-coro.html) |
 | Семинар 6 | 31.03.26 20:10 | - |
-| Лекция 7. Coroutines II | 07.04.26 18:40 | [slides](about:blank) |
+| Лекция 7. Coroutines II | 07.04.26 18:40 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/semester-02/lec-02-07/lec-coro-2.html) |
 | Семинар 7 | 07.04.26 20:10 | - |
 | КР 2 | 14.04.26 18:45 | - |
 | ha6 | 17.04.2026 23:59 | - |
