@@ -64,7 +64,7 @@
 | sem02-control02 | 14.04.26 22:00 | [invite](https://classroom.github.com/a/3kGNN9b9) |
 | 2025-ha6 | 24.04.2026, 03.05.2026, 11.05.2026 23:59 | [invite](https://classroom.github.com/a/KlhoOMzF) |
 | sem02-cls08 | XX.XX.XX XX:XX | [invite](about:blank) |
-| sem02-cls09 | 05.05.26 20:00 | [invite](about:blank) |
+| sem02-cls09 | 05.05.26 20:00 | [invite](https://classroom.github.com/a/aYH-1J3_) |
 | sem02-cls10 | 19.05.26 20:00 | [invite](about:blank) |
 | sem02-control03 | 19.05.26 21:45 | [invite](about:blank) |
 | sem02-controlXX | ??.05.26 21:45 | [invite](about:blank) |
