@@ -37,7 +37,8 @@
 | ha6 | 17.04.2026 23:59 | - |
 | Лекция 8. Memory Models | 21.04.26 18:40 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/semester-02/lec-02-08/lec-memmodel.html) |
 | Семинар 8 | 21.04.26 20:10 | - |
-| Лекция 9. Ranges | 28.04.26 18:40 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/semester-02/lec-02-09/lec-ranges.html)  |
+| Промежуточный теормин 2 | 28.04.26 18:40 | - |
+| Лекция 9. Ranges | 28.04.26 19:00 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/semester-02/lec-02-09/lec-ranges.html)  |
 | Семинар 9 | 28.04.26 20:10 | - |
 | Лекция 10. C++23/26 Overview | 12.05.26 18:40 | - |
 | Семинар 10 | 12.05.26 20:10 | - |
