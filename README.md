@@ -40,10 +40,10 @@
 | Промежуточный теормин 2 | 28.04.26 18:40 | - |
 | Лекция 9. Ranges | 28.04.26 19:00 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/semester-02/lec-02-09/lec-ranges.html)  |
 | Семинар 9 | 28.04.26 20:10 | - |
-| Лекция 10. C++23/26 Overview | 12.05.26 18:40 | - |
+| Лекция 10. C++23/26 Overview | 12.05.26 18:40 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/semester-02/lec-02-10/cpp2326.html) |
 | Семинар 10 | 12.05.26 20:10 | - |
 | КР 3 | 19.05.26 18:45 | - |
-| Лекция 11. ABI | 26.05.26 18:40 | - |
+| Лекция 11. ABI | 26.05.26 18:40 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/semester-02/lec-02-11/abi.html) |
 | Семинар 11 | 26.05.26 20:10 | - |
 
 ## ⚠️ Задания и дедлайны
