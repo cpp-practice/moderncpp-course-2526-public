@@ -45,6 +45,11 @@
 | КР 3 | 19.05.26 18:45 | - |
 | Лекция 11. ABI | 26.05.26 18:40 | [slides](https://htmlpreview.github.io/?https://github.com/cpp-practice/moderncpp-course-2526-public/blob/main/semester-02/lec-02-11/abi.html) |
 | Семинар 11 | 26.05.26 20:10 | - |
+| КР X | 02.06.26 18:55 | - |
+| Разбор ha6 | 09.06.26 18:30 | - |
+| Exam. Задача 1 | 12.06.26 12:00 | - |
+| Exam. Теормин | 13.06.26 | - |
+| Exam. Теория (для очной формы) | 13.06.26 | - |
 
 ## ⚠️ Задания и дедлайны
 
@@ -68,3 +73,4 @@
 | sem02-control03 | 19.05.26 21:45 | [invite](https://classroom.github.com/a/hIIUauiQ) |
 | sem02-cls08-mem-model (bonus) | 02.06.26 23:59 | [invite](https://classroom.github.com/a/EvIwMa24) |
 | sem02-controlXX | 02.06.26 21:55 | [invite](https://classroom.github.com/a/VCpxIUsh) |
+| 2026-summer-exam | 12.06.26 18:00 | [invite]() |
